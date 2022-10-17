@@ -1,4 +1,4 @@
-from Hahmo import Hahmo
+from luokatRoolipeli import Hahmo
 import random
 hahmosi = Hahmo  
 
