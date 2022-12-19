@@ -1,8 +1,8 @@
-# masan-projekti
-Ohjelmoinnin perusteet projektityö.
+# Roolipelihahmo generaattiori
 
-Ohjelman tarkoitus on toimia alkukantaisena roolipelihahmon luonti generaattorina. (Aion varmasti jatkossa kehitellä ohjelmaa lisää, kunhan taidot kehittyvät.)
-Syötät ohjelmalle hahmosi perustiedot (nimi, ikä, sukupuoli), jonka jälkeen vastaillaan randomisti valikoituihin tietovisakysymyksiin jotka määrittävät taitopisteet/levelisi, mitkä syötät hahmon eri taitoihin.
-Tietovisa on vain väliaikainen placeholderi jollekkin osuvammalle testiosuudelle, jolla oikeasti mitataan pelaajan taidot. Se jääköön jatkon kehitykselle.
+Ohjelmoinnin perusteet kurssin päättötyönä tein roolipelihahmo generaattorin.
 
-Github : https://github.com/Koopasuu/masan-projekti.git
+Projekti oli ensimmäinen virallinen työ Python kieltä käyttäen.
+Idea lähti omasta intohimosta roolipelejä kohtaan ja halusta hahmotella varhaista prototyyppiä hahmonluonnille, millaisen haluaisin joskus nähdä toteutuvan pelialalla tai mahdollisesti minun tekemässä pelissä.
+
+Sain projektista arvosanaksi täydet 5/5.
