@@ -28,7 +28,7 @@ def hahmoLuonti():
 
 
 def visailu():
-    print("Seuraavaksi katsotaan, paljonko ansaitset skillpointteja. Seuraa 4 kysymystä, vastaa harkiten. Äläkä katso googlesta prkl.")
+    print("Seuraavaksi katsotaan, paljonko ansaitset skillpointteja. Seuraa 4 kysymystä, vastaa harkiten. Äläkä katso googlesta.")
     print("Jokaisessa kysymyksessä vastausvaihtoehtoja on KOLME: A, B ja C.")
     input("Jos olet valmis, paina 'enter'")
     # Tuple lista tietovisa osiolle. Etsin pitkin nettiä parasta vaihtoehtoa, ja tämä tuntui kaikista järkevimmältä, jossa voi vain näppärästi syöttää kysymyksiä, ja poimia ne for loopin avulla.
