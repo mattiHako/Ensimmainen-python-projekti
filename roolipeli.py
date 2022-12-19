@@ -42,7 +42,7 @@ def visailu():
         ("Milloin käytiin American sisällissota? | A.1850 B.1861 C.1982: ", "b"),
         ("Milloin Michael Jackson kuoli? | A.2006 B.2001 C.2009: ", "c"),
         ("Monta tuotantokautta on sarjassa The Sopranos? | A.6 B.8 C.2: ", "a"),
-        ("Monta F1 mestaruutta Ayrton Senna voitti? | A.6 B.4 C.8: ", "b")]
+        ("Monta F1 mestaruutta Ayrton Senna voitti? | A.6 B.3 C.8: ", "b")]
     random.shuffle(kysymykset)
     maara = 0
     oikein = 0
